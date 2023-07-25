@@ -11,13 +11,12 @@ Phu Nguyen Duc desu ~~
 <div style="display:flex; width:100%;">
   <div style="display:flex; flex-direction:column">
     <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=PhuND2k3&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact"       
-  alt="GitHub Stats for Phu Nguyen Duc" width="400" >
-      
+      <img src="https://github-readme-stats.vercel.app/api?username=PhuND2k3&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact"       
+      alt="GitHub Stats for Phu Nguyen Duc" width="400" >
     </div>
 
-  <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PhuND2k3&theme=jolly" width="400" >
+    <div>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=PhuND2k3&theme=jolly" width="400" >
     </div>
   </div>
   <div style="flex:1;">
