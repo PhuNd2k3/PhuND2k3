@@ -4,4 +4,4 @@
 Phu Nguyen Duc desu ~~
 
 
-![Python](https://img.shields.io/badge/-Python-007acc?style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge)
