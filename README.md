@@ -9,8 +9,7 @@ Phu Nguyen Duc desu ~~
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-007acc?style=for-the-badge)
 
 <div style="display: flex;">
-       <div style="display: flex;
-       flex-direction: column;">
+       <div style="display: flex; flex-direction: column;">
         <img src="https://github-readme-stats.vercel.app/api?username=PhuND2k3&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact"       
         alt="GitHub Stats for Phu Nguyen Duc" width="400" >
         
