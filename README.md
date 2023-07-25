@@ -15,7 +15,7 @@ Phu Nguyen Duc desu ~~
          <br/>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=PhuND2k3&theme=jolly" width="400" >
        </div>
-       <div>
-           <img src="https://i.gifer.com/origin/ad/ad932b6af29b77f105e5b24217488a70_w200.webp" width="400" >
-       </div>
-    </div>
+<div>
+ <img src="https://i.gifer.com/origin/ad/ad932b6af29b77f105e5b24217488a70_w200.webp" width="400" >
+</div>
+</div>
