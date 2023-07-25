@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://i.gifer.com/origin/ad/ad932b6af29b77f105e5b24217488a70_w200.webp" width="100" >
 
 Phu Nguyen Duc desu ~~ 
-<img src="https://i.gifer.com/origin/ad/ad932b6af29b77f105e5b24217488a70_w200.webp" width="100" >
-
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge)
