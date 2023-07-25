@@ -1,4 +1,4 @@
-### Hi there  <img src="https://i.gifer.com/origin/ad/ad932b6af29b77f105e5b24217488a70_w200.webp" width="50" >
+### Hi there  <img src="https://imgur.com/S0Q2uyy" width="50" >
 
 Phu Nguyen Duc desu ~~ 
 
