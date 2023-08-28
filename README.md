@@ -5,6 +5,9 @@ Phu Nguyen Duc desu ~~
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge)
 
+![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-violet?style=for-the-badge)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-007acc?style=for-the-badge)
 
 
